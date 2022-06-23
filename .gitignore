@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Helm
+charts/*/*.tgz
+/.idea/
+docker-compose-*.yml
+*.sh
